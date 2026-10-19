@@ -15,6 +15,27 @@ Developed for research submission to **IEEE EmergIN 2027**.
 
 ---
 
+## Items Detection
+
+<img width="1373" height="631" alt="item detec1" src="https://github.com/user-attachments/assets/88cb7250-1545-4706-8045-962360e59a06" />
+
+## Theft Detection
+<img width="1377" height="632" alt="gate alrm" src="https://github.com/user-attachments/assets/f059f00f-4121-4cab-8b4d-3f0f54be164f" />
+
+## Carbon Footprint
+<img width="1372" height="627" alt="eco fp" src="https://github.com/user-attachments/assets/0c2837e0-c615-4185-950d-c717da0e06ae" />
+
+
+## Adding/Removing
+https://github.com/user-attachments/assets/e9fb19ed-6c80-433c-b2b9-751ace9e7560
+
+## Nav,Footprint and Theft
+
+
+https://github.com/user-attachments/assets/74ce7239-59ee-4259-91a5-f152acc6b432
+
+
+
 ## Project Structure
 
 ```text
