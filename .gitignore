@@ -1,0 +1,9 @@
+# Virtual Environments & Caches
+retail_env/
+__pycache__/
+*.pyc
+
+# Local Configs & System Logs
+.vscode/
+.DS_Store
+*.errors.txt
